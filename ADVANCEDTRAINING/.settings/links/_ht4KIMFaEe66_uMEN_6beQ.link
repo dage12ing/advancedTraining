@@ -1,0 +1,59 @@
+{
+  "itemId" : "_ht4KIMFaEe66_uMEN_6beQ",
+  "contextList" : [ {
+    "contextName" : "Desarrollo",
+    "repoId" : "_5222wMYEEe6hn4r8rz4s5g",
+    "parameterList" : [ {
+      "id" : "_53hlIcYEEe6hn4r8rz4s5g",
+      "name" : "TrainingConnect_oauthProperties_oauthUserName"
+    }, {
+      "id" : "_53hlIsYEEe6hn4r8rz4s5g",
+      "name" : "TrainingConnect_role"
+    }, {
+      "id" : "_53hlI8YEEe6hn4r8rz4s5g",
+      "name" : "TrainingConnect_userPassword_userId"
+    }, {
+      "id" : "_53hlJMYEEe6hn4r8rz4s5g",
+      "name" : "TrainingConnect_keyAlias"
+    }, {
+      "id" : "_53hlJcYEEe6hn4r8rz4s5g",
+      "name" : "TrainingConnect_oauthProperties_clientSecret"
+    }, {
+      "id" : "_53hlJsYEEe6hn4r8rz4s5g",
+      "name" : "TrainingConnect_schemaName"
+    }, {
+      "id" : "_53hlJ8YEEe6hn4r8rz4s5g",
+      "name" : "TrainingConnect_oauthProperties_oauthPassword"
+    }, {
+      "id" : "_53hlKMYEEe6hn4r8rz4s5g",
+      "name" : "TrainingConnect_warehouse"
+    }, {
+      "id" : "_53hlKcYEEe6hn4r8rz4s5g",
+      "name" : "TrainingConnect_db"
+    }, {
+      "id" : "_53hlKsYEEe6hn4r8rz4s5g",
+      "name" : "TrainingConnect_userPassword_password"
+    }, {
+      "id" : "_53hlK8YEEe6hn4r8rz4s5g",
+      "name" : "TrainingConnect_regionID"
+    }, {
+      "id" : "_53hlLMYEEe6hn4r8rz4s5g",
+      "name" : "TrainingConnect_loginTimeout"
+    }, {
+      "id" : "_53hlLcYEEe6hn4r8rz4s5g",
+      "name" : "TrainingConnect_jdbcParameters"
+    }, {
+      "id" : "_53hlLsYEEe6hn4r8rz4s5g",
+      "name" : "TrainingConnect_oauthProperties_clientId"
+    }, {
+      "id" : "_53hlL8YEEe6hn4r8rz4s5g",
+      "name" : "TrainingConnect_account"
+    }, {
+      "id" : "_53hlMMYEEe6hn4r8rz4s5g",
+      "name" : "TrainingConnect_oauthProperties_scope"
+    }, {
+      "id" : "_53hlMcYEEe6hn4r8rz4s5g",
+      "name" : "TrainingConnect_oauthProperties_oauthTokenEndpoint"
+    } ]
+  } ]
+}

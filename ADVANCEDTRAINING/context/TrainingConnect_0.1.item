@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Desarrollo" xmi:id="_53hlIMYEEe6hn4r8rz4s5g">
+    <contextParameter comment="" name="TrainingConnect_oauthProperties_oauthUserName" prompt="TrainingConnect_oauthProperties_oauthUserName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_53hlIcYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_role" prompt="TrainingConnect_role?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_53hlIsYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_userPassword_userId" prompt="TrainingConnect_userPassword_userId?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="ESTUDIANTE15" xmi:id="_53hlI8YEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_keyAlias" prompt="TrainingConnect_keyAlias?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_53hlJMYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_oauthProperties_clientSecret" prompt="TrainingConnect_oauthProperties_clientSecret?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="" xmi:id="_53hlJcYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_schemaName" prompt="TrainingConnect_schemaName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="ESTUDIANTE15" xmi:id="_53hlJsYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_oauthProperties_oauthPassword" prompt="TrainingConnect_oauthProperties_oauthPassword?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="" xmi:id="_53hlJ8YEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_warehouse" prompt="TrainingConnect_warehouse?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="COMPUTE_WH" xmi:id="_53hlKMYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_db" prompt="TrainingConnect_db?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="TRAINING" xmi:id="_53hlKcYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_userPassword_password" prompt="TrainingConnect_userPassword_password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:T59zLsIDLaE+rKy1Kk96PW3YWxsMW8bLjJm7cSnLMVA3tkBmzstS" xmi:id="_53hlKsYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_regionID" prompt="TrainingConnect_regionID?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_53hlK8YEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_loginTimeout" prompt="TrainingConnect_loginTimeout?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="15" xmi:id="_53hlLMYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_jdbcParameters" prompt="TrainingConnect_jdbcParameters?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_53hlLcYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_oauthProperties_clientId" prompt="TrainingConnect_oauthProperties_clientId?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_53hlLsYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_account" prompt="TrainingConnect_account?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="KGXQOKP-YMB48718" xmi:id="_53hlL8YEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_oauthProperties_scope" prompt="TrainingConnect_oauthProperties_scope?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_53hlMMYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_oauthProperties_oauthTokenEndpoint" prompt="TrainingConnect_oauthProperties_oauthTokenEndpoint?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_53hlMcYEEe6hn4r8rz4s5g"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Produccion" xmi:id="_53hlMsYEEe6hn4r8rz4s5g">
+    <contextParameter comment="" name="TrainingConnect_oauthProperties_oauthUserName" prompt="TrainingConnect_oauthProperties_oauthUserName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_53hlM8YEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_role" prompt="TrainingConnect_role?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_53hlNMYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_userPassword_userId" prompt="TrainingConnect_userPassword_userId?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="ESTUDIANTE15" xmi:id="_53hlNcYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_keyAlias" prompt="TrainingConnect_keyAlias?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_53hlNsYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_oauthProperties_clientSecret" prompt="TrainingConnect_oauthProperties_clientSecret?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="" xmi:id="_53hlN8YEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_schemaName" prompt="TrainingConnect_schemaName?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="ESTUDIANTE15" xmi:id="_53hlOMYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_oauthProperties_oauthPassword" prompt="TrainingConnect_oauthProperties_oauthPassword?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="" xmi:id="_53hlOcYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_warehouse" prompt="TrainingConnect_warehouse?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="COMPUTE_WH" xmi:id="_53hlOsYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_db" prompt="TrainingConnect_db?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="TRAINING_PROD" xmi:id="_53hlO8YEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_userPassword_password" prompt="TrainingConnect_userPassword_password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:qgYsBi30BUV0EAGXMrbhFjDAefObJyTl3LvwPiItJXuWzthFkmfv" xmi:id="_53hlPMYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_regionID" prompt="TrainingConnect_regionID?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_53hlPcYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_loginTimeout" prompt="TrainingConnect_loginTimeout?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="15" xmi:id="_53hlPsYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_jdbcParameters" prompt="TrainingConnect_jdbcParameters?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_53hlP8YEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_oauthProperties_clientId" prompt="TrainingConnect_oauthProperties_clientId?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_53hlQMYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_account" prompt="TrainingConnect_account?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="KGXQOKP-YMB48718" xmi:id="_53hlQcYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_oauthProperties_scope" prompt="TrainingConnect_oauthProperties_scope?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_53hlQsYEEe6hn4r8rz4s5g"/>
+    <contextParameter comment="" name="TrainingConnect_oauthProperties_oauthTokenEndpoint" prompt="TrainingConnect_oauthProperties_oauthTokenEndpoint?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_53hlQ8YEEe6hn4r8rz4s5g"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_fe9d1c28-a2e1-44a2-94a2-de6ca9f5973a"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>VRaiSg3686fgpVD+ixVohf5WGWtkyPv12revyr393f9i2DK/mLQFXlLHKbtnmXiZ/gxn6Q1gWHPN&#13;
+LCJPj7RcjQ==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_07341f8e-71e2-432e-ac2f-96714f05ec1a"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>SpQCiBYWWUp2Tyu2NWqt4XfuIBw1zXRoog43suH+GmvPB9mAm483qzCkPJIaxa/1/oXAWTPE4I4e&#13;
+J6uwxcKu3A==</DigestValue></Reference></SignedInfo><SignatureValue>J5vMK6D7A3GGl3J4vPzMmGs4/jsGUSnAVsm9nu1PvTymOQAa5xSj621H5TNnn49slCjK90WBCRua&#13;
+lH6A+YVQXYpzu3LkVEXE6A3UQxB17CFm+JcBuE1AxFMdu7azIcFm3B1r8rxpQJ4NTo0NGJ+67dv0&#13;
+MLLT6brnrRTeCVz4MzsxW7XHdSowBHRX6R1KBTd8LR2Nr+YXLcyuJhK0hNWk2Jv0pqpIAWDSywP+&#13;
+fJclkAVGWJH4jFMoaBqCc/wrvIa3SqOHTLPmz859kEbm1WNwf0eJ/xotp1xHHff4QjAVF+SLT1pW&#13;
+mN61iHbJFR3mrG2FWb0lDWWscIBjGFVxLKdCew==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_07341f8e-71e2-432e-ac2f-96714f05ec1a" Target="#_fe9d1c28-a2e1-44a2-94a2-de6ca9f5973a"><Timestamp>2024-04-04 15:35:05</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
